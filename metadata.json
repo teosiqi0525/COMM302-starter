@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets Explorer",
+  "description": "Comprehensive global financial markets tracker featuring real-time indices, US stocks, crypto highlights, technical ratings, and asset screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
